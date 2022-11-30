@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Prath2",
+      "emailId": "parth@gmailcom",
+      "contactNo": "0987654321",
+      "photoUrl": "https://www.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg",
+      "title": "typicode",
+      "groupId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Prath2",
+      "emailId": "parth@gmailcom",
+      "contactNo": "0987654321",
+      "photoUrl": "https://www.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg",
+      "title": "typicode",
+      "groupId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Prath2",
+      "emailId": "parth@gmailcom",
+      "contactNo": "0987654321",
+      "photoUrl": "https://www.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg",
+      "title": "typicode",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Family 1"
+    },
+    {
+      "id": 2,
+      "name": "Family 2"
+    },
+    {
+      "id": 3,
+      "name": "Family 3"
+    },
+    {
+      "id": 4,
+      "name": "Family 4"
+    },
+    {
+      "id": 5,
+      "name": "Family 5"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
